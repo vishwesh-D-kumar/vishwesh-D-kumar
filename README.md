@@ -15,7 +15,6 @@
 ## Tech Stack
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -31,9 +30,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/Latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
@@ -48,10 +44,10 @@
 <!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuneetanand&theme=dark" alt="anuneetanand" /> -->
 <!-- </div> -->
 
-
+<!-- 
 <h3>🔢 Visitor Count</h3>
 
-![Visitor Count](https://profile-counter.glitch.me/vishwesh-D-kumar/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/vishwesh-D-kumar/count.svg) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwesh-D-kumar&show_icons=true&hide=jupyter%20notebook)](https://github.com/vishwesh-D-kumar) -->
 
 (https://github-readme-stats.vercel.app/api?username=vishwesh-D-kumar&show_icons=true)](https://github.com/vishwesh-D-kumar)
