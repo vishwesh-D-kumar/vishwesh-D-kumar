@@ -49,7 +49,10 @@
 <!-- </div> -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwesh-D-kumar&show_icons=true&hide=jupyter%20notebook)](https://github.com/vishwesh-D-kumar)
+<h3>🔢 Visitor Count</h3>
+
+![Visitor Count](https://profile-counter.glitch.me/vishwesh-D-kumar/count.svg)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwesh-D-kumar&show_icons=true&hide=jupyter%20notebook)](https://github.com/vishwesh-D-kumar) -->
 
 (https://github-readme-stats.vercel.app/api?username=vishwesh-D-kumar&show_icons=true)](https://github.com/vishwesh-D-kumar)
 
