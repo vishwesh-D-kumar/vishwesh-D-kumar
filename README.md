@@ -6,9 +6,9 @@
 
 - 👨‍🎓 Pursuing my Undergraduate Degree @ IIITD and contributing to various development and research projects. 
 
-- 👨‍💻 Experience developing Cross-Platform Mobile Apps, Stance detection systems and designing scalable Indians. 
+- 👨‍💻 Experience developing Cross-Platform Mobile Apps, Stance detection systems. 
 
-- 🔭  Actively exploring areas of 
+- 🔭  Actively exploring areas of backend architecture ,UX based designs.
 
 - 🤝  Open to connecting with fellow developers & researchers and learning something new.
 
