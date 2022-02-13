@@ -47,7 +47,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwesh-D-kumar&show_icons=true&theme=dark&hide=stars&include_all_commits=true" />
 <!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuneetanand&theme=dark" alt="anuneetanand" /> -->
 <!-- </div> -->
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwesh-D-kumar&show_icons=true&hide=jupyter%20notebook)](https://github.com/vishwesh-D-kumar)
+
 (https://github-readme-stats.vercel.app/api?username=vishwesh-D-kumar&show_icons=true)](https://github.com/vishwesh-D-kumar)
 
 ## Connect With Me
