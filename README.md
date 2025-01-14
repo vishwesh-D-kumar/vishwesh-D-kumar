@@ -56,6 +56,4 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vishwesh-kumar-ba07a216a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vishwesh%20Kumar-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/kr.vishwesh/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-kr.vishwesh-blue?style=flat-square&logo=instagram"></a>
-
 
